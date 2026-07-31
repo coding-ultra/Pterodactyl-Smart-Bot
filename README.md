@@ -74,7 +74,9 @@ CF_TURNSTILE_SECRET_KEY=
  2. Go to the **Discord Developer Portal** under your application's emoji option.
    Discord Dev Portal Emoji Option
  3. Reference the images below and rename every emoji file identically to match the required identifiers:
-   *    *    *    * ## 🔑 STEP 4: BOT START & LICENSE KEY
+*
+                  
+## 🔑 STEP 4: BOT START & LICENSE KEY
  1. Start the bot.
  2. When asked for email, enter: ska@gamil.com
  3. When asked for license key, enter: asstt246424gj#$#@#%
