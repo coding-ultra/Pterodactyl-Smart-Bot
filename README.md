@@ -54,6 +54,10 @@ CF_TURNSTILE_SECRET_KEY=
 STEP:3 UPLOAD EMOJI :
 a) Download the emoji.zip file.
 b) Go Discord Dev portal emoji option
-[image link:SmartSelect_20260731_214956_Samsung capture.jpg]
+[image link:]
 c) See under Images and rename every emoji same to same.
-[image links: 
+[image links: https://github.com/coding-ultra/Pterodactyl-Smart-Bot/blob/main/SmartSelect_20260731_213715_Chrome.jpg
+https://github.com/coding-ultra/Pterodactyl-Smart-Bot/blob/main/SmartSelect_20260731_213728_Chrome.jpg
+https://github.com/coding-ultra/Pterodactyl-Smart-Bot/blob/main/SmartSelect_20260731_213740_Chrome.jpg
+https://github.com/coding-ultra/Pterodactyl-Smart-Bot/blob/main/SmartSelect_20260731_213802_Chrome.jpg]
+
