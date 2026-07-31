@@ -73,7 +73,8 @@ CF_TURNSTILE_SECRET_KEY=
  1. Download the emoji.zip file.
  2. Go to the **Discord Developer Portal** under your application's emoji option.
    Discord Dev Portal Emoji Option
- 3. Reference the images below and rename every emoji file identically to match the required identifiers:
+** https://github.com/coding-ultra/Pterodactyl-Smart-Bot/blob/main/SmartSelect_20260731_214956_Samsung%20capture.jpg **
+ 4. Reference the images below and rename every emoji file identically to match the required identifiers:
 *
                   
 ## 🔑 STEP 4: BOT START & LICENSE KEY
