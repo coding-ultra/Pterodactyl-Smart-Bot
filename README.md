@@ -96,10 +96,12 @@ CF_TURNSTILE_SECRET_KEY=
 
 <img src="https://raw.githubusercontent.com/coding-ultra/Pterodactyl-Smart-Bot/main/SmartSelect_20260731_213802_Chrome.jpg" width="800" alt="Emoji Reference 4">
 </p>
+
 ## 🔑 STEP 4: BOT START & LICENSE KEY
  1. Start the bot.
  2. When asked for email, enter: ska@gamil.com
  3. When asked for license key, enter: asstt246424gj#$#@#%
+    
 ## 🤖 Bot Commands Reference
 Below is the complete list of available bot commands categorized for management and administration:
  * **/add_admin** - Add a new administrator to the panel.
