@@ -129,3 +129,5 @@ Below is the complete list of available bot commands categorized for management 
 ```
 
 ```
+
+## 🚨 DON'T COPY THE SOURCE CODE WITHOUT PERMISSION.....
