@@ -99,8 +99,8 @@ CF_TURNSTILE_SECRET_KEY=
 
 ## 🔑 STEP 4: BOT START & LICENSE KEY
  1. Start the bot.
- 2. When asked for email, enter: ska@gamil.com
- 3. When asked for license key, enter: asstt246424gj#$#@#%
+ 2. When asked for email, enter: ```ska@gamil.com ```
+ 4. When asked for license key, enter: ```asstt246424gj#$#@#%```
     
 ## 🤖 Bot Commands Reference
 Below is the complete list of available bot commands categorized for management and administration:
