@@ -1,5 +1,6 @@
-আরে ভাই! সমস্যাটা হচ্ছে তুমি গিটহাবের blob লিংক ব্যবহার করেছ, যার কারণে গিটহাবের ওয়েবপেজ ওপেন হয়ে যায় কিন্তু সরাসরি ছবি শো করে না। গিটহাবের README.md-এ ছবি সুন্দরভাবে দেখানোর জন্য **Raw Link** (raw.githubusercontent.com) ব্যবহার করতে হয়।
-আমি লিংকগুলো ঠিক করে পুরো README.md ফাইলটা নিচে আবার দিয়ে দিলাম। এটা কপি করে পেস্ট করলেই ইনশাআল্লাহ সব ছবি পারফেক্টলি শো করবে:
+আরে ভাই, গিটহাবে অনেক সময় সাধারণ Markdown ছবির লিংক ঠিকমতো কাজ করে না বা ভেঙে যায়।
+এটার সমাধান হলো গিটহাবের জন্য **HTML <img> ট্যাগ** ব্যবহার করা। এতে ছবিগুলো সরাসরি এবং একদম পারফেক্ট সাইজে শো করবে।
+নিচের সম্পূর্ণ কোডটা কপি করে তোমার README.md ফাইলে পেস্ট করে দাও, এবার ইনশাআল্লাহ সব ছবি ১০০% শো করবে:
 ```markdown
 # Pterodactyl Smart Bot - Complete README & Installation Guide
 
@@ -80,9 +81,24 @@ CF_TURNSTILE_SECRET_KEY=
 ```
 ## 🎨 STEP 3: UPLOAD EMOJI
  1. Download the emoji.zip file.
- 2. Go to the **Discord Developer Portal** under your application's emoji option.
+ 2. Go to the **Discord Developer Portal** under your application's emoji option:
+<p align="center">
+<img src="https://raw.githubusercontent.com/coding-ultra/Pterodactyl-Smart-Bot/main/SmartSelect_20260731_214956_Samsung%20capture.jpg" width="800" alt="Discord Dev Portal Emoji Option">
+</p>
  3. Reference the images below and rename every emoji file identically to match the required identifiers:
-   *    *    *    * ## 🔑 STEP 4: BOT START & LICENSE KEY
+<p align="center">
+<img src="https://raw.githubusercontent.com/coding-ultra/Pterodactyl-Smart-Bot/main/SmartSelect_20260731_213715_Chrome.jpg" width="800" alt="Emoji Reference 1">
+
+
+<img src="https://raw.githubusercontent.com/coding-ultra/Pterodactyl-Smart-Bot/main/SmartSelect_20260731_213728_Chrome.jpg" width="800" alt="Emoji Reference 2">
+
+
+<img src="https://raw.githubusercontent.com/coding-ultra/Pterodactyl-Smart-Bot/main/SmartSelect_20260731_213740_Chrome.jpg" width="800" alt="Emoji Reference 3">
+
+
+<img src="https://raw.githubusercontent.com/coding-ultra/Pterodactyl-Smart-Bot/main/SmartSelect_20260731_213802_Chrome.jpg" width="800" alt="Emoji Reference 4">
+</p>
+## 🔑 STEP 4: BOT START & LICENSE KEY
  1. Start the bot.
  2. When asked for email, enter: ska@gamil.com
  3. When asked for license key, enter: asstt246424gj#$#@#%
