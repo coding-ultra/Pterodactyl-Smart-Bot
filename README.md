@@ -54,4 +54,6 @@ CF_TURNSTILE_SECRET_KEY=
 STEP:3 UPLOAD EMOJI :
 a) Download the emoji.zip file.
 b) Go Discord Dev portal emoji option
-[image link:
+[image link:SmartSelect_20260731_214956_Samsung capture.jpg]
+c) See under Images and rename every emoji same to same.
+[image links: 
