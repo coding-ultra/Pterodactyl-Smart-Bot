@@ -1,7 +1,7 @@
 ## FOR PTERODACTYL BOT PASSWORD JOIN OUR DISCORD COMMUNITY AND CREATE A TICKET AND FULL FILL PAYMENT (200 RUPEES) AND GET PASSWORD.
 LINK:- https://discord.gg/CNNWrvQFc
 
-```markdown
+
 # Pterodactyl Smart Bot - Complete README & Installation Guide
 
 ---
